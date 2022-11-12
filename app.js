@@ -33,15 +33,15 @@
 //      else {
 //      alert("Come to our cookout!");
 //      }
-if (c === d) {
-   if (x === y) {
-   g = h;
-   }
-   else if (a === b) {
-   g = h;   }   else {
-   e = f;
-       }
-       }
-       else {
-       e = f;
-       }
+// if (c === d) {
+//    if (x === y) {
+//    g = h;
+//    }
+//    else if (a === b) {
+//    g = h;   }   else {
+//    e = f;
+//        }
+//        }
+//        else {
+//        e = f;
+//        }
